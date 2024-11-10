@@ -1,0 +1,95 @@
+body{
+    margin: 0;
+  }
+  .header{ 
+    background-color: #0171f9;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 50px;
+  }
+  .linkes a {
+    color: #fff;
+    padding: 5px 24px;
+    text-decoration: none;
+    border-radius: 15px;
+  }
+  .linkes a:hover {
+    background-color: #2386fe;
+  }
+  .btn {
+    background-color: #EE626b;
+  border: none;
+  color: #fff;
+  border-radius: 15px;
+  
+  }
+  .btn hover{
+    background-color:#f28;
+}
+    .landingb{
+      background-color: #0171f9;
+      display: flex;
+      justify-content: space-between;
+      padding: 25px 50px;
+      align-items: center;
+      color: #fff;
+      border-radius: 0 0 50px 50px;
+    }
+.landingb-lift{
+      width: 400px;
+    }
+    .biton input{
+      border-radius: 50px;
+      border: none;
+      outline: none;
+      height: 30px;
+      padding: 0 20px;
+    }
+    .biton button{
+      position: absolute;
+      height: 30px;
+      left: 250px;
+    }
+    .phot img{
+      border-radius: 20px;
+      width: 250px;
+    }
+    .terndigpg{
+      padding: 25px 50px;
+    }
+    .terndigpg span{
+      color: #f28;
+      text-transform: uppercase;
+      font-size: 14px;
+      
+    }
+    .terndig-heder{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .terndig-heder h1{
+      margin: 0;
+    }
+    .card{
+      width: 300px;
+      background-color: #ffffff;
+      border-radius: 20px;
+    }
+    .card-info{
+      display: flex;
+      justify-content: space-between;
+      padding: 10px 25px;
+    }
+    .card-info img{
+      width: 50px;
+      border-radius: 20px;
+    }
+    .thamp{
+      border-radius:  25px 25px 0 0;
+    }
+    .terndingcard{
+      display:flex;
+      gap: 12px;
+    }
