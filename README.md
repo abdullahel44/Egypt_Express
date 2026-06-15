@@ -31,3 +31,4 @@ The analysis engine answers critical operational business questions through adva
 1. Open **Microsoft SQL Server Management Studio (SSMS)**.
 2. Copy and paste the contents of `SQL_egypt_express.sql` into a new query window.
 3. Press `F5` or click **Execute** to safely compile the database layout, run the 1,000-row simulator loop, and read the analytical dashboard reports instantly.
+4. ![Dashboard Preview](IMG.png)
