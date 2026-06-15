@@ -1,4 +1,3 @@
-﻿-- 1. إنشاء قاعدة البيانات لو مش موجودة
 -- =================================================================================
 -- PROJECT: EGYPT EXPRESS LOGISTICS ANALYSIS
 -- DATABASE CREATION, DATA GENERATION (1000 ROWS LOOP), AND BUSINESS QUERIES
